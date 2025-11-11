@@ -9,7 +9,7 @@ The target variable `SalePrice`, was log transformed to reduce skewness and norm
 ## Project Structure
 
 - `predicting_house_prices.ipynb`: Jupyter Notebook containing full data preprocessing, model training, evaluation, and prediction steps.
-- `datasset: a folder housing the test and train data as well as saved data during analysis and modeling.
+- `datasset`: a folder housing the test and train data as well as saved data during analysis and modeling.
 - `test_prediction.csv`: Final submission file containing predicted house prices on the test set (submitted to kaggle).
 - `graphs/`: Folder containing plots for feature importance (Lasso and Ridge coefficients).
 - `ProjectREADME.md`: This file.
